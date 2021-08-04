@@ -18,17 +18,33 @@ const Home = () => {
              leftBtnText="Custom Order"
              rightBtnText="Existing Inventory" />
              <Section 
-                title="Model 3" 
-                description="Order Online for Touchless Delivery" 
-                backgroundImg="model-3.jpg"
-                leftBtnText="Custom Order"
-                rightBtnText="Existing Inventory" />
+              title="Model 3" 
+              description="Order Online for Touchless Delivery" 
+              backgroundImg="model-3.jpg"
+              leftBtnText="Custom Order"
+              rightBtnText="Existing Inventory" />
             <Section 
              title="Model X" 
              description="Order Online for Touchless Delivery" 
              backgroundImg="model-x.jpg"
              leftBtnText="Custom Order"
              rightBtnText="Existing Inventory" />
+             <Section 
+             title="Solar Panals" 
+             description="Lowest Cost Solar Panels in America" 
+             backgroundImg="solar-panel.jpg"
+             leftBtnText="Order Now"
+             rightBtnText="Learn More" />
+             <Section 
+             title="Solar Roof" 
+             description="Produce Clean Energy From Your Roof" 
+             backgroundImg="solar-roof.jpg"
+             leftBtnText="Order Now"
+             rightBtnText="Learn More" />
+             <Section 
+             title="Accessories"
+             backgroundImg="accessories.jpg"
+             leftBtnText="Shop Now" />
             
         </Container>
     )
