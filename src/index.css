@@ -11,9 +11,8 @@ body{
   overflow-x: hidden;
 }
 
-button{
-  background: none;
-  border: none;
+a{
+  
   cursor: pointer;
 }
 

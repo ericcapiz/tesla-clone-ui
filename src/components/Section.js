@@ -50,6 +50,7 @@ const Wrap = styled.div `
 
 const ItemText = styled.div `
     margin-top: 60%;
+    
 `
 
 const ButtonGroup = styled.div `
@@ -89,9 +90,12 @@ const RightButton = styled(LeftButton)`
     background-color: white;
     opacity: 0.65;
     color: black;
+    
 `
 
-const Buttons = styled.div``
+const Buttons = styled.div`
+    
+`
 
 const DownArrow = styled.img`
     margin-bottom: 20px;
