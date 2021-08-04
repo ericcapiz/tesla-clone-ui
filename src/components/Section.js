@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import Fade from 'react-reveal/Fade';
 
 const Section = ({title, description, backgroundImg, leftBtnText,  rightBtnText, }) => {
+    
     return (
         <Wrap bgImage={backgroundImg}>
             
