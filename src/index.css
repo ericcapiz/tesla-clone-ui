@@ -11,6 +11,16 @@ body{
   overflow-x: hidden;
 }
 
+button{
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+a{
+  text-decoration: none;
+}
+
 @keyframes animateDown{
   0%, 20%, 50%, 80%, 100%{
     transform: translateY(0);
